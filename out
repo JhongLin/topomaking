@@ -1,0 +1,462 @@
+-----------------  output_Gridnet.txt  ------------------
+num of nodes = 9
+-----------------  output_Layer42.txt  ------------------
+num of nodes = 6
+-----------------  output_Sanren.txt  ------------------
+num of nodes = 7
+-----------------  output_CrlNetworkServices.txt  ------------------
+num of nodes = 33
+-----------------  output_Belnet2007.txt  ------------------
+num of nodes = 21
+-----------------  output_Uninett2011.txt  ------------------
+num of nodes = 69
+-----------------  output_Litnet.txt  ------------------
+num of nodes = 43
+-----------------  output_Garr201201.txt  ------------------
+num of nodes = 61
+-----------------  output_Garr201010.txt  ------------------
+num of nodes = 56
+-----------------  output_Psinet.txt  ------------------
+num of nodes = 24
+-----------------  output_Packetexchange.txt  ------------------
+num of nodes = 21
+-----------------  output_Getnet.txt  ------------------
+num of nodes = 7
+-----------------  output_Garr201105.txt  ------------------
+num of nodes = 59
+-----------------  output_Mren.txt  ------------------
+num of nodes = 6
+-----------------  output_Napnet.txt  ------------------
+num of nodes = 6
+-----------------  output_Telcove.txt  ------------------
+num of nodes = 73
+-----------------  output_Cernet.txt  ------------------
+num of nodes = 41
+-----------------  output_Garr200109.txt  ------------------
+num of nodes = 22
+-----------------  output_HiberniaGlobal.txt  ------------------
+num of nodes = 55
+-----------------  output_Singaren.txt  ------------------
+num of nodes = 11
+-----------------  output_Missouri.txt  ------------------
+num of nodes = 67
+-----------------  output_Abilene.txt  ------------------
+num of nodes = 11
+-----------------  output_VtlWavenet2011.txt  ------------------
+num of nodes = 92
+-----------------  output_Tw.txt  ------------------
+num of nodes = 76
+-----------------  output_Epoch.txt  ------------------
+num of nodes = 6
+-----------------  output_HiberniaIreland.txt  ------------------
+num of nodes = 8
+-----------------  output_Pern.txt  ------------------
+num of nodes = 127
+-----------------  output_TataNld.txt  ------------------
+num of nodes = 145
+-----------------  output_Renater2001.txt  ------------------
+num of nodes = 24
+-----------------  output_Eenet.txt  ------------------
+num of nodes = 13
+-----------------  output_Garr200908.txt  ------------------
+num of nodes = 54
+-----------------  output_Sago.txt  ------------------
+num of nodes = 18
+-----------------  output_Deltacom.txt  ------------------
+num of nodes = 113
+-----------------  output_Garr201012.txt  ------------------
+num of nodes = 56
+-----------------  output_Zamren.txt  ------------------
+num of nodes = 36
+-----------------  output_Compuserve.txt  ------------------
+num of nodes = 14
+-----------------  output_Abvt.txt  ------------------
+num of nodes = 23
+-----------------  output_Bics.txt  ------------------
+num of nodes = 33
+-----------------  output_UsSignal.txt  ------------------
+num of nodes = 63
+-----------------  output_Belnet2008.txt  ------------------
+num of nodes = 21
+-----------------  output_Heanet.txt  ------------------
+num of nodes = 7
+-----------------  output_Arpanet19723.txt  ------------------
+num of nodes = 25
+-----------------  output_Netrail.txt  ------------------
+num of nodes = 7
+-----------------  output_Bellcanada.txt  ------------------
+num of nodes = 48
+-----------------  output_Garr201112.txt  ------------------
+num of nodes = 61
+-----------------  output_Myren.txt  ------------------
+num of nodes = 37
+-----------------  output_Intellifiber.txt  ------------------
+num of nodes = 73
+-----------------  output_UsCarrier.txt  ------------------
+num of nodes = 158
+-----------------  output_Digex.txt  ------------------
+num of nodes = 31
+-----------------  output_KentmanAug2005.txt  ------------------
+num of nodes = 28
+-----------------  output_Amres.txt  ------------------
+num of nodes = 25
+-----------------  output_Basnet.txt  ------------------
+num of nodes = 7
+-----------------  output_GtsCe.txt  ------------------
+num of nodes = 149
+-----------------  output_Aarnet.txt  ------------------
+num of nodes = 19
+-----------------  output_KentmanJan2011.txt  ------------------
+num of nodes = 38
+-----------------  output_Evolink.txt  ------------------
+num of nodes = 37
+-----------------  output_Iij.txt  ------------------
+num of nodes = 37
+-----------------  output_Fatman.txt  ------------------
+num of nodes = 17
+-----------------  output_Arnes.txt  ------------------
+num of nodes = 34
+-----------------  output_Ion.txt  ------------------
+num of nodes = 125
+-----------------  output_Ulaknet.txt  ------------------
+num of nodes = 82
+-----------------  output_Harnet.txt  ------------------
+num of nodes = 21
+-----------------  output_Arpanet19706.txt  ------------------
+num of nodes = 9
+-----------------  output_Cesnet200304.txt  ------------------
+num of nodes = 29
+-----------------  output_Darkstrand.txt  ------------------
+num of nodes = 28
+-----------------  output_Istar.txt  ------------------
+num of nodes = 23
+-----------------  output_Globalcenter.txt  ------------------
+num of nodes = 9
+-----------------  output_BtNorthAmerica.txt  ------------------
+num of nodes = 36
+-----------------  output_KentmanApr2007.txt  ------------------
+num of nodes = 23
+-----------------  output_Garr199905.txt  ------------------
+num of nodes = 23
+-----------------  output_Latnet.txt  ------------------
+num of nodes = 69
+-----------------  output_Renater2008.txt  ------------------
+num of nodes = 33
+-----------------  output_Ai3.txt  ------------------
+num of nodes = 10
+-----------------  output_RedBestel.txt  ------------------
+num of nodes = 84
+-----------------  output_Arn.txt  ------------------
+num of nodes = 30
+-----------------  output_KentmanJul2005.txt  ------------------
+num of nodes = 16
+-----------------  output_Nsfnet.txt  ------------------
+num of nodes = 13
+-----------------  output_Garr200112.txt  ------------------
+num of nodes = 24
+-----------------  output_Rediris.txt  ------------------
+num of nodes = 19
+-----------------  output_VisionNet.txt  ------------------
+num of nodes = 24
+-----------------  output_Bellsouth.txt  ------------------
+num of nodes = 51
+-----------------  output_Internode.txt  ------------------
+num of nodes = 66
+-----------------  output_Pacificwave.txt  ------------------
+num of nodes = 18
+-----------------  output_Garr201001.txt  ------------------
+num of nodes = 54
+-----------------  output_Arpanet19728.txt  ------------------
+num of nodes = 29
+-----------------  output_Garr201110.txt  ------------------
+num of nodes = 59
+-----------------  output_Dataxchange.txt  ------------------
+num of nodes = 6
+-----------------  output_SwitchL3.txt  ------------------
+num of nodes = 42
+-----------------  output_Garr201004.txt  ------------------
+num of nodes = 54
+-----------------  output_Cesnet200706.txt  ------------------
+num of nodes = 44
+-----------------  output_Bbnplanet.txt  ------------------
+num of nodes = 27
+-----------------  output_Garr200902.txt  ------------------
+num of nodes = 54
+-----------------  output_Telecomserbia.txt  ------------------
+num of nodes = 6
+-----------------  output_Tinet.txt  ------------------
+num of nodes = 53
+-----------------  output_Nordu2005.txt  ------------------
+num of nodes = 9
+-----------------  output_HiberniaUk.txt  ------------------
+num of nodes = 15
+-----------------  output_Renater2006.txt  ------------------
+num of nodes = 33
+-----------------  output_Nextgen.txt  ------------------
+num of nodes = 17
+-----------------  output_Rnp.txt  ------------------
+num of nodes = 31
+-----------------  output_Vinaren.txt  ------------------
+num of nodes = 25
+-----------------  output_Agis.txt  ------------------
+num of nodes = 25
+-----------------  output_Syringa.txt  ------------------
+num of nodes = 74
+-----------------  output_Nordu1989.txt  ------------------
+num of nodes = 7
+-----------------  output_GtsPoland.txt  ------------------
+num of nodes = 33
+-----------------  output_Oxford.txt  ------------------
+num of nodes = 20
+-----------------  output_Jgn2Plus.txt  ------------------
+num of nodes = 18
+-----------------  output_Funet.txt  ------------------
+num of nodes = 26
+-----------------  output_Uninett2010.txt  ------------------
+num of nodes = 74
+-----------------  output_Nordu1997.txt  ------------------
+num of nodes = 14
+-----------------  output_Xspedius.txt  ------------------
+num of nodes = 34
+-----------------  output_Uran.txt  ------------------
+num of nodes = 24
+-----------------  output_Switch.txt  ------------------
+num of nodes = 74
+-----------------  output_Garr201007.txt  ------------------
+num of nodes = 55
+-----------------  output_Cesnet200603.txt  ------------------
+num of nodes = 39
+-----------------  output_Grnet.txt  ------------------
+num of nodes = 37
+-----------------  output_Garr199904.txt  ------------------
+num of nodes = 23
+-----------------  output_KentmanFeb2008.txt  ------------------
+num of nodes = 26
+-----------------  output_Belnet2003.txt  ------------------
+num of nodes = 23
+-----------------  output_Garr201008.txt  ------------------
+num of nodes = 55
+-----------------  output_Niif.txt  ------------------
+num of nodes = 36
+-----------------  output_Garr201108.txt  ------------------
+num of nodes = 59
+-----------------  output_Belnet2009.txt  ------------------
+num of nodes = 21
+-----------------  output_Oteglobe.txt  ------------------
+num of nodes = 93
+-----------------  output_Cesnet2001.txt  ------------------
+num of nodes = 23
+-----------------  output_BtLatinAmerica.txt  ------------------
+num of nodes = 51
+-----------------  output_Belnet2005.txt  ------------------
+num of nodes = 23
+-----------------  output_Esnet.txt  ------------------
+num of nodes = 68
+-----------------  output_Bandcon.txt  ------------------
+num of nodes = 22
+-----------------  output_WideJpn.txt  ------------------
+num of nodes = 30
+-----------------  output_Iinet.txt  ------------------
+num of nodes = 31
+-----------------  output_Garr200212.txt  ------------------
+num of nodes = 27
+-----------------  output_Renater1999.txt  ------------------
+num of nodes = 24
+-----------------  output_Arpanet196912.txt  ------------------
+num of nodes = 4
+-----------------  output_PionierL1.txt  ------------------
+num of nodes = 36
+-----------------  output_Globenet.txt  ------------------
+num of nodes = 67
+-----------------  output_NetworkUsa.txt  ------------------
+num of nodes = 35
+-----------------  output_Cudi.txt  ------------------
+num of nodes = 51
+-----------------  output_DialtelecomCz.txt  ------------------
+num of nodes = 193
+-----------------  output_Sanet.txt  ------------------
+num of nodes = 43
+-----------------  output_UniC.txt  ------------------
+num of nodes = 25
+-----------------  output_Ntelos.txt  ------------------
+num of nodes = 48
+-----------------  output_Garr201005.txt  ------------------
+num of nodes = 55
+-----------------  output_Garr201101.txt  ------------------
+num of nodes = 56
+-----------------  output_Forthnet.txt  ------------------
+num of nodes = 62
+-----------------  output_Garr201111.txt  ------------------
+num of nodes = 60
+-----------------  output_Garr200912.txt  ------------------
+num of nodes = 54
+-----------------  output_Uninet.txt  ------------------
+num of nodes = 13
+-----------------  output_Cesnet1993.txt  ------------------
+num of nodes = 10
+-----------------  output_Garr200909.txt  ------------------
+num of nodes = 55
+-----------------  output_Garr201103.txt  ------------------
+num of nodes = 58
+-----------------  output_Canerie.txt  ------------------
+num of nodes = 32
+-----------------  output_Garr201102.txt  ------------------
+num of nodes = 57
+-----------------  output_Colt.txt  ------------------
+num of nodes = 153
+-----------------  output_VtlWavenet2008.txt  ------------------
+num of nodes = 88
+-----------------  output_Nsfcnet.txt  ------------------
+num of nodes = 10
+-----------------  output_HiberniaUs.txt  ------------------
+num of nodes = 22
+-----------------  output_Cynet.txt  ------------------
+num of nodes = 30
+-----------------  output_Belnet2010.txt  ------------------
+num of nodes = 22
+-----------------  output_Carnet.txt  ------------------
+num of nodes = 44
+-----------------  output_Roedunet.txt  ------------------
+num of nodes = 42
+-----------------  output_Renater2010.txt  ------------------
+num of nodes = 43
+-----------------  output_PionierL3.txt  ------------------
+num of nodes = 38
+-----------------  output_RoedunetFibre.txt  ------------------
+num of nodes = 48
+-----------------  output_Bren.txt  ------------------
+num of nodes = 37
+-----------------  output_IowaStatewideFiberMap.txt  ------------------
+num of nodes = 33
+-----------------  output_Fccn.txt  ------------------
+num of nodes = 23
+-----------------  output_Surfnet.txt  ------------------
+num of nodes = 50
+-----------------  output_Karen.txt  ------------------
+num of nodes = 25
+-----------------  output_Cogentco.txt  ------------------
+num of nodes = 197
+-----------------  output_Marnet.txt  ------------------
+num of nodes = 20
+-----------------  output_GtsCzechRepublic.txt  ------------------
+num of nodes = 32
+-----------------  output_GtsSlovakia.txt  ------------------
+num of nodes = 35
+-----------------  output_Geant2012.txt  ------------------
+num of nodes = 40
+-----------------  output_DeutscheTelekom.txt  ------------------
+num of nodes = 39
+-----------------  output_Dfn.txt  ------------------
+num of nodes = 58
+-----------------  output_Garr201104.txt  ------------------
+num of nodes = 59
+-----------------  output_Geant2001.txt  ------------------
+num of nodes = 27
+-----------------  output_Restena.txt  ------------------
+num of nodes = 19
+-----------------  output_AsnetAm.txt  ------------------
+num of nodes = 65
+-----------------  output_HurricaneElectric.txt  ------------------
+num of nodes = 24
+-----------------  output_Airtel.txt  ------------------
+num of nodes = 16
+-----------------  output_Belnet2004.txt  ------------------
+num of nodes = 23
+-----------------  output_Uunet.txt  ------------------
+num of nodes = 49
+-----------------  output_Cesnet201006.txt  ------------------
+num of nodes = 52
+-----------------  output_Chinanet.txt  ------------------
+num of nodes = 42
+-----------------  output_Cesnet200511.txt  ------------------
+num of nodes = 39
+-----------------  output_JanetExternal.txt  ------------------
+num of nodes = 12
+-----------------  output_Reuna.txt  ------------------
+num of nodes = 37
+-----------------  output_Itnet.txt  ------------------
+num of nodes = 11
+-----------------  output_Twaren.txt  ------------------
+num of nodes = 20
+-----------------  output_Intranetwork.txt  ------------------
+num of nodes = 39
+-----------------  output_LambdaNet.txt  ------------------
+num of nodes = 42
+-----------------  output_TLex.txt  ------------------
+num of nodes = 12
+-----------------  output_Cesnet1997.txt  ------------------
+num of nodes = 13
+-----------------  output_Padi.txt  ------------------
+num of nodes = 15
+-----------------  output_BsonetEurope.txt  ------------------
+num of nodes = 18
+-----------------  output_Palmetto.txt  ------------------
+num of nodes = 45
+-----------------  output_Internetmci.txt  ------------------
+num of nodes = 19
+-----------------  output_Gambia.txt  ------------------
+num of nodes = 28
+-----------------  output_Navigata.txt  ------------------
+num of nodes = 13
+-----------------  output_Kdl.txt  ------------------
+num of nodes = 754
+-----------------  output_Eunetworks.txt  ------------------
+num of nodes = 15
+-----------------  output_Geant2010.txt  ------------------
+num of nodes = 37
+-----------------  output_Garr201107.txt  ------------------
+num of nodes = 59
+-----------------  output_Renater2004.txt  ------------------
+num of nodes = 30
+-----------------  output_Ilan.txt  ------------------
+num of nodes = 14
+-----------------  output_Iris.txt  ------------------
+num of nodes = 51
+-----------------  output_Grena.txt  ------------------
+num of nodes = 16
+-----------------  output_Cesnet1999.txt  ------------------
+num of nodes = 13
+-----------------  output_Janetbackbone.txt  ------------------
+num of nodes = 29
+-----------------  output_Kreonet.txt  ------------------
+num of nodes = 13
+-----------------  output_Columbus.txt  ------------------
+num of nodes = 70
+-----------------  output_Aconet.txt  ------------------
+num of nodes = 23
+-----------------  output_Gblnet.txt  ------------------
+num of nodes = 8
+-----------------  output_Garr201003.txt  ------------------
+num of nodes = 54
+-----------------  output_Janetlense.txt  ------------------
+num of nodes = 20
+-----------------  output_BtEurope.txt  ------------------
+num of nodes = 24
+-----------------  output_Sprint.txt  ------------------
+num of nodes = 11
+-----------------  output_Geant2009.txt  ------------------
+num of nodes = 34
+-----------------  output_Garr201109.txt  ------------------
+num of nodes = 59
+-----------------  output_Garr200404.txt  ------------------
+num of nodes = 22
+-----------------  output_Cwix.txt  ------------------
+num of nodes = 36
+-----------------  output_Sinet.txt  ------------------
+num of nodes = 74
+-----------------  output_Renam.txt  ------------------
+num of nodes = 5
+-----------------  output_GtsHungary.txt  ------------------
+num of nodes = 30
+-----------------  output_Belnet2006.txt  ------------------
+num of nodes = 23
+-----------------  output_Nordu2010.txt  ------------------
+num of nodes = 18
+-----------------  output_HiberniaCanada.txt  ------------------
+num of nodes = 13
+-----------------  output_BeyondTheNetwork.txt  ------------------
+num of nodes = 53
+-----------------  output_Interoute.txt  ------------------
+num of nodes = 110
+-----------------  output_Ntt.txt  ------------------
+num of nodes = 47
